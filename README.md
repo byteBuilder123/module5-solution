@@ -36,5 +36,4 @@ cd module5.solution
 ```
 
 ### DEMO
-Pakistani's Bistro [https://bytebuilder123.github.io/module2-solution/]
-
+[Pakistani's Bistro] (https://bytebuilder123.github.io/module2-solution/)
